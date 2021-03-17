@@ -1,1 +1,1 @@
-# asm lab 1
+# asm lab 1 + lab 2
